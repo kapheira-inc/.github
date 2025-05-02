@@ -1,6 +1,6 @@
 # Kapheira
 
-<img src="assets/logo.png" alt="Kapheira Logo" width="200" />
+<img src="../assets/logo.png" alt="Kapheira Logo" width="200" />
 
 **Consultancy • Software Development • Cloud Architecture**
 
