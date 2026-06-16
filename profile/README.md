@@ -97,7 +97,7 @@ We’ve partnered with organizations across industries:
 
 ## Contact Us
 
-* **Email:** [contact@kapheira.com](mailto:contact@kapheira.com)
+* **Email:** [contact@kapheira.eu](mailto:contact@kapheira.eu)
 * **LinkedIn:** [Kapheira](https://www.linkedin.com/company/kapheira)
 
 ---
